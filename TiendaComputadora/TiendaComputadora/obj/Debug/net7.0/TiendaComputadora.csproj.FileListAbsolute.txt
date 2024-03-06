@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\TiendaComputadora\TiendaComputadora\bin\Debug\net7.0\TiendaComputadora.exe
+C:\Users\USUARIO\Desktop\TiendaComputadora\TiendaComputadora\bin\Debug\net7.0\TiendaComputadora.deps.json
+C:\Users\USUARIO\Desktop\TiendaComputadora\TiendaComputadora\bin\Debug\net7.0\TiendaComputadora.runtimeconfig.json
+C:\Users\USUARIO\Desktop\TiendaComputadora\TiendaComputadora\bin\Debug\net7.0\TiendaComputadora.dll
+C:\Users\USUARIO\Desktop\TiendaComputadora\TiendaComputadora\bin\Debug\net7.0\TiendaComputadora.pdb
+C:\Users\USUARIO\Desktop\TiendaComputadora\TiendaComputadora\obj\Debug\net7.0\TiendaComputadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\TiendaComputadora\TiendaComputadora\obj\Debug\net7.0\TiendaComputadora.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\TiendaComputadora\TiendaComputadora\obj\Debug\net7.0\TiendaComputadora.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\TiendaComputadora\TiendaComputadora\obj\Debug\net7.0\TiendaComputadora.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\TiendaComputadora\TiendaComputadora\obj\Debug\net7.0\TiendaComputadora.dll
+C:\Users\USUARIO\Desktop\TiendaComputadora\TiendaComputadora\obj\Debug\net7.0\refint\TiendaComputadora.dll
+C:\Users\USUARIO\Desktop\TiendaComputadora\TiendaComputadora\obj\Debug\net7.0\TiendaComputadora.pdb
+C:\Users\USUARIO\Desktop\TiendaComputadora\TiendaComputadora\obj\Debug\net7.0\TiendaComputadora.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\TiendaComputadora\TiendaComputadora\obj\Debug\net7.0\ref\TiendaComputadora.dll

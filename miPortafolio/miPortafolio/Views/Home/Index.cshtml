@@ -1,0 +1,17 @@
+﻿@model HomeIndexViewModel
+
+@{
+    //TRASMITE INFORMACION A LA VISTA HACIA EL LAYOUT
+    ViewData["Title"] = "Home Page";
+    //CREAMOS UNA FUNCION QUE CONVIERTA EN MAYUSCULA LOS DATOS ENVIADOS A LA VISTA
+    // string ConvertirEnMayusculas(string valor)
+    // {
+    //     return valor.ToUpper() + ", MVP";
+    // }
+    // DateTime hoy = DateTime.Now;
+
+}
+
+<partial name="_presentacion"/>
+<!--Agreagar las experiencias en columnas de Bootstrap-->
+<partial name="habilidades" />

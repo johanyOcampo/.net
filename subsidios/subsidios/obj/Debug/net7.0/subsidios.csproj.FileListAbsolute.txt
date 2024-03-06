@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\subsidios\subsidios\bin\Debug\net7.0\subsidios.exe
+C:\Users\USUARIO\Desktop\subsidios\subsidios\bin\Debug\net7.0\subsidios.deps.json
+C:\Users\USUARIO\Desktop\subsidios\subsidios\bin\Debug\net7.0\subsidios.runtimeconfig.json
+C:\Users\USUARIO\Desktop\subsidios\subsidios\bin\Debug\net7.0\subsidios.dll
+C:\Users\USUARIO\Desktop\subsidios\subsidios\bin\Debug\net7.0\subsidios.pdb
+C:\Users\USUARIO\Desktop\subsidios\subsidios\obj\Debug\net7.0\subsidios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\subsidios\subsidios\obj\Debug\net7.0\subsidios.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\subsidios\subsidios\obj\Debug\net7.0\subsidios.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\subsidios\subsidios\obj\Debug\net7.0\subsidios.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\subsidios\subsidios\obj\Debug\net7.0\subsidios.dll
+C:\Users\USUARIO\Desktop\subsidios\subsidios\obj\Debug\net7.0\refint\subsidios.dll
+C:\Users\USUARIO\Desktop\subsidios\subsidios\obj\Debug\net7.0\subsidios.pdb
+C:\Users\USUARIO\Desktop\subsidios\subsidios\obj\Debug\net7.0\subsidios.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\subsidios\subsidios\obj\Debug\net7.0\ref\subsidios.dll

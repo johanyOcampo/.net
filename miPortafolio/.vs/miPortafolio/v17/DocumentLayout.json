@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|c:\\users\\usuario\\desktop\\visual2022\\miportafolio\\miportafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|solutionrelative:miportafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|c:\\users\\usuario\\desktop\\visual2022\\miportafolio\\miportafolio\\models\\homeindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|solutionrelative:miportafolio\\models\\homeindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|c:\\users\\usuario\\desktop\\visual2022\\miportafolio\\miportafolio\\views\\home\\habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|solutionrelative:miportafolio\\views\\home\\habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|c:\\users\\usuario\\desktop\\visual2022\\miportafolio\\miportafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|solutionrelative:miportafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|c:\\users\\usuario\\desktop\\visual2022\\miportafolio\\miportafolio\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|solutionrelative:miportafolio\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|c:\\users\\usuario\\desktop\\visual2022\\miportafolio\\miportafolio\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|solutionrelative:miportafolio\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|c:\\users\\usuario\\desktop\\visual2022\\miportafolio\\miportafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|solutionrelative:miportafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|c:\\users\\usuario\\desktop\\visual2022\\miportafolio\\miportafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|solutionrelative:miportafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|c:\\users\\usuario\\desktop\\visual2022\\miportafolio\\miportafolio\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|solutionrelative:miportafolio\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|c:\\users\\usuario\\desktop\\visual2022\\miportafolio\\miportafolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6C8CF1-8F60-4A5D-B971-E8C1DF2465B4}|miPortafolio\\miPortafolio.csproj|solutionrelative:miportafolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "miPortafolio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "miPortafolio\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T16:21:35.712Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "miPortafolio\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "miPortafolio\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T23:14:20.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\Models\\HomeIndexViewModel.cs",
+              "RelativeDocumentMoniker": "miPortafolio\\Models\\HomeIndexViewModel.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\Models\\HomeIndexViewModel.cs",
+              "RelativeToolTip": "miPortafolio\\Models\\HomeIndexViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T22:37:23.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\Models\\Proyecto.cs",
+              "RelativeDocumentMoniker": "miPortafolio\\Models\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\Models\\Proyecto.cs",
+              "RelativeToolTip": "miPortafolio\\Models\\Proyecto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T22:32:27.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "habilidades.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\Views\\Home\\habilidades.cshtml",
+              "RelativeDocumentMoniker": "miPortafolio\\Views\\Home\\habilidades.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\Views\\Home\\habilidades.cshtml",
+              "RelativeToolTip": "miPortafolio\\Views\\Home\\habilidades.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T22:28:30.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "custom.css",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\wwwroot\\css\\custom.css",
+              "RelativeDocumentMoniker": "miPortafolio\\wwwroot\\css\\custom.css",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\wwwroot\\css\\custom.css",
+              "RelativeToolTip": "miPortafolio\\wwwroot\\css\\custom.css",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-27T19:34:27.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "miPortafolio\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "miPortafolio\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:30:37.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "miPortafolio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "miPortafolio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T16:23:23.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "miPortafolio\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\Models\\Persona.cs",
+              "RelativeToolTip": "miPortafolio\\Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:16:53.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\Program.cs",
+              "RelativeDocumentMoniker": "miPortafolio\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\visual2022\\miPortafolio\\miPortafolio\\Program.cs",
+              "RelativeToolTip": "miPortafolio\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAawBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T16:27:13.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

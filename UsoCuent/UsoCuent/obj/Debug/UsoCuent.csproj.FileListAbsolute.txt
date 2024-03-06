@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\UsoCuent\UsoCuent\bin\Debug\UsoCuent.exe.config
+C:\Users\USUARIO\Desktop\UsoCuent\UsoCuent\bin\Debug\UsoCuent.exe
+C:\Users\USUARIO\Desktop\UsoCuent\UsoCuent\bin\Debug\UsoCuent.pdb
+C:\Users\USUARIO\Desktop\UsoCuent\UsoCuent\obj\Debug\UsoCuent.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\UsoCuent\UsoCuent\obj\Debug\UsoCuent.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\UsoCuent\UsoCuent\obj\Debug\UsoCuent.exe
+C:\Users\USUARIO\Desktop\UsoCuent\UsoCuent\obj\Debug\UsoCuent.pdb

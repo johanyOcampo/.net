@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Mabel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57518371-99DB-4287-9116-3B517322CAF7}|Mabel\\Mabel.csproj|c:\\users\\usuario\\desktop\\mabel\\mabel\\lavadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57518371-99DB-4287-9116-3B517322CAF7}|Mabel\\Mabel.csproj|solutionrelative:mabel\\lavadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57518371-99DB-4287-9116-3B517322CAF7}|Mabel\\Mabel.csproj|C:\\Users\\USUARIO\\Desktop\\Mabel\\Mabel\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57518371-99DB-4287-9116-3B517322CAF7}|Mabel\\Mabel.csproj|solutionrelative:Mabel\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lavadora.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Mabel\\Mabel\\Lavadora.cs",
+              "RelativeDocumentMoniker": "Mabel\\Lavadora.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Mabel\\Mabel\\Lavadora.cs",
+              "RelativeToolTip": "Mabel\\Lavadora.cs",
+              "ViewState": "AQIAAG8BAAAAAAAAAAAAABUBAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T00:18:03.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Mabel\\Mabel\\Program.cs",
+              "RelativeDocumentMoniker": "Mabel\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Mabel\\Mabel\\Program.cs",
+              "RelativeToolTip": "Mabel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T23:15:27.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+C:\Users\USUARIO\Desktop\edades\edades\obj\Debug\edades.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\edades\edades\obj\Debug\edades.csproj.CoreCompileInputs.cache

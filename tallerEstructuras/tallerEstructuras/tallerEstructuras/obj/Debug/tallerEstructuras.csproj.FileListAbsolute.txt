@@ -1,0 +1,7 @@
+D:\Escritorio\C#.NET\tallerEstructuras\tallerEstructuras\bin\Debug\tallerEstructuras.exe.config
+D:\Escritorio\C#.NET\tallerEstructuras\tallerEstructuras\bin\Debug\tallerEstructuras.exe
+D:\Escritorio\C#.NET\tallerEstructuras\tallerEstructuras\bin\Debug\tallerEstructuras.pdb
+D:\Escritorio\C#.NET\tallerEstructuras\tallerEstructuras\obj\Debug\tallerEstructuras.csproj.AssemblyReference.cache
+D:\Escritorio\C#.NET\tallerEstructuras\tallerEstructuras\obj\Debug\tallerEstructuras.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#.NET\tallerEstructuras\tallerEstructuras\obj\Debug\tallerEstructuras.exe
+D:\Escritorio\C#.NET\tallerEstructuras\tallerEstructuras\obj\Debug\tallerEstructuras.pdb

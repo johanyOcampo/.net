@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Desktop\Mabel\Mabel\bin\Debug\Mabel.exe.config
+C:\Users\USUARIO\Desktop\Mabel\Mabel\bin\Debug\Mabel.exe
+C:\Users\USUARIO\Desktop\Mabel\Mabel\bin\Debug\Mabel.pdb
+C:\Users\USUARIO\Desktop\Mabel\Mabel\obj\Debug\Mabel.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Mabel\Mabel\obj\Debug\Mabel.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Mabel\Mabel\obj\Debug\Mabel.exe
+C:\Users\USUARIO\Desktop\Mabel\Mabel\obj\Debug\Mabel.pdb
+C:\Users\USUARIO\Desktop\Mabel\Mabel\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\USUARIO\Desktop\Mabel\Mabel\obj\Debug\Interop.WMPLib.dll
+C:\Users\USUARIO\Desktop\Mabel\Mabel\obj\Debug\Mabel.csproj.ResolveComReference.cache
